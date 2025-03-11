@@ -1,4 +1,4 @@
-/* تنسيق عام */
+/* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     text-align: center;
@@ -8,7 +8,7 @@ body {
     padding: 20px;
 }
 
-/* رأس الصفحة */
+/* Header */
 header {
     background: #007bff;
     color: white;
@@ -33,7 +33,7 @@ button:hover {
     color: white;
 }
 
-/* الأقسام */
+/* Sections */
 .container {
     background: white;
     padding: 20px;
@@ -44,7 +44,7 @@ button:hover {
     text-align: left;
 }
 
-/* تحسين عرض المهارات */
+/* Skills Styling */
 .skills {
     display: flex;
     flex-wrap: wrap;
@@ -60,7 +60,7 @@ button:hover {
     list-style: none;
 }
 
-/* الفوتر */
+/* Footer */
 footer {
     margin-top: 20px;
     font-size: 14px;
