@@ -19,7 +19,7 @@ header {
 
 button {
     background-color:  rgba(255, 255, 255, 0.63);
-    color: #021427;
+    color: #032850;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
@@ -29,7 +29,7 @@ button {
 }
 
 button:hover {
-    background-color: #02162b;
+    background-color:  #032850;
     color:  rgba(255, 255, 255, 0.63);
 }
 
@@ -53,7 +53,7 @@ button:hover {
 }
 
 .skills li {
-    background: #02162b;
+    background:  #032850;
     color: rgba(255, 255, 255, 0.63);
     padding: 10px;
     border-radius: 5px;
