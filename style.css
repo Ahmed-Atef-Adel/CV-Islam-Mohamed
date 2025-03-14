@@ -11,15 +11,15 @@ body {
 /* Header */
 header {
     background: #007bff;
-    color: white;
+    color:  rgba(255, 255, 255, 0.773);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 button {
-    background-color: white;
-    color: #007bff;
+    background-color:  rgba(255, 255, 255, 0.773);
+    color: #021427;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
@@ -29,13 +29,13 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
-    color: white;
+    background-color: #02162b;
+    color:  rgba(255, 255, 255, 0.773);
 }
 
 /* Sections */
 .container {
-    background: white;
+    background: rgba(255, 255, 255, 0.773);
     padding: 20px;
     margin: 20px auto;
     border-radius: 10px;
@@ -53,8 +53,8 @@ button:hover {
 }
 
 .skills li {
-    background: #007bff;
-    color: white;
+    background: #02162b;
+    color: rgba(255, 255, 255, 0.773);
     padding: 10px;
     border-radius: 5px;
     list-style: none;
